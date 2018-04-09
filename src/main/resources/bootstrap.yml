@@ -5,7 +5,34 @@ spring:
     config:
       server:
         git:
-          uri: /Users/lofy/Documents/code/spring-conf-repo
+          uri: git@github.com:jiajiayang/spring-config-server.git
+          private-key: -----BEGIN RSA PRIVATE KEY-----
+                       MIIEpAIBAAKCAQEAwSjcaK2x8Lf4reQmf+LZmBeEO0O0fwD+hd7VkRPvTrW3Gand
+                       gWkDPTs27TpnjZ5+NsrEISNIQ01ionmk5DAtR61As9hQYdsAiAsCeNGrE5XUKykG
+                       rodbEu2wJjzJ887N2YkqTlV+LrZxii8aTIv3cD91cIhW9KqhOdRZnqxlimoIv8l8
+                       8fHuvGtj8MRvEcM8T+XSV8Ji+xAjPHReWTGQ0DdJgqs9dzx0sIbf8Mw6rLYyV+Pp
+                       ZpY5n3K6NJuVLOr4HyY0MHPDOo6zaVKew58B4LZ+yCJAfM49PRpooIIlSs55krAk
+                       JPl89IfmA2nkmdEA6Dk+/hnX/IIbG/T2brSuZwIDAQABAoIBAEWWLOFhQeuQu3wZ
+                       52zHEtDiF/cpywq+FvOvdY0Qe3QFrvMF6RDH/iy++mi4U7oHUTz4C3RMu6nTZSdX
+                       X3n9iTJ7TgX8dejq9uQL41YXYuRpY8gwvYF+rebBzmXYHIFDDZHDAoS58/1sKLc5
+                       hOXyvq+njO1/kKQQHIky4R5yyRn1u4IXjve4Zc6gjRyb0Ji6qoZt7hhmErH2V8sk
+                       pOHWpNSZmZKgIfte/tXM3jHi33Y3iKTNc3VI7b5T4QRKfti4dXuPgk2bqI+JBf+8
+                       8CewMqFyG4fq9YlRCdeVNyRViyMFwZUtFCDBbQQJb19sa4DzuDUrfqaUkoS1T8xM
+                       HIjXaUECgYEA/q6QDzNM9Lo9lMzRqXXVu9/N843kdz7pO7kiOj6yk5qmQnrMWjmP
+                       wFcsvt553sgRRfPyDaLIBHOLhzuBl4miJ4wXnk+de9PraYxG2NarmAkDfpxCbDkm
+                       H9uqHHvybruxng3i6p/KeJB1C1f69Zc4lisIc/IeBdXdfNMmLxKJhbECgYEAwijI
+                       /5bK/y4nWYEkvpO3gyiMDoPoKpRvJGPv1uAZ/c2OnlRhjyu1T72Fi0ezTR0ELfFV
+                       rM6qdV6LG2CMOAY45Sz4tL8jSHjm2DjU3bVCEGoc/WrB87+8dxDoeMxx4RmsweXW
+                       jp3pBKKh0BlygHEBfk/EhK0CNM6fXWeq4T4Rw5cCgYEAlS3DDGRMS31b3PEsTkrL
+                       a0To6iTPElozW9xRhDR9faA0ivRLBv54iX2GpDbExA4EsCj4O6yB5LmZnRjqC81+
+                       whN5Mi4IXSQA3M5iIVl9IY0GEv+MmL/Q6RBOUGj51Ir0u1P++temTYCwTni2c2yk
+                       pLGIPgIwO9LN7fPwhdoh28ECgYAwlWIOSp5LEjJ4fA9EvNPLtwaszyb2GKRi97rZ
+                       CsSWNKx+Q+ERoT9CT8st2egs4JjeIihtEF2o9tpaJGOR1UTBW+pz1+wtQ0uISVhC
+                       jguU7eiJJQCZTJ4NMSbqq0XHrNQExM1WbH8VUNiqqON07lIQWEd1Z5FIw3cvOTSS
+                       HiT1ywKBgQCs0d6+KMsNIF0UPyRodoaCrL6xnydc7l1k+k64IdJf1AeSqSrXoniv
+                       apGdZgFftvvO74tEVjdKFmESrlQw9wsB9lE3GfzoG1yVgCpgT78oD+IY5bB3ZVNT
+                       tPZdOEcUYHOu3+/NNyfU/ylTOyuLHUVEnh6nwdCBPDBb3EJdxcxZNQ==
+                       -----END RSA PRIVATE KEY-----
 
 server:
   port: 8082
