@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:jiajiayang/spring-config-server.git
+          uri: git@github.com:jiajiayang/spring-conf-repo.git
           private-key: -----BEGIN RSA PRIVATE KEY-----
                        MIIEpAIBAAKCAQEAwSjcaK2x8Lf4reQmf+LZmBeEO0O0fwD+hd7VkRPvTrW3Gand
                        gWkDPTs27TpnjZ5+NsrEISNIQ01ionmk5DAtR61As9hQYdsAiAsCeNGrE5XUKykG
