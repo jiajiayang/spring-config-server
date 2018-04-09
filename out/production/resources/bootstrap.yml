@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:jiajiayang/spring-config-server.git
+          uri: git@github.com:jiajiayang/spring-conf-repo.git
           private-key: -----BEGIN RSA PRIVATE KEY-----
                        MIIEpAIBAAKCAQEAwSjcaK2x8Lf4reQmf+LZmBeEO0O0fwD+hd7VkRPvTrW3Gand
                        gWkDPTs27TpnjZ5+NsrEISNIQ01ionmk5DAtR61As9hQYdsAiAsCeNGrE5XUKykG
@@ -33,6 +33,7 @@ spring:
                        apGdZgFftvvO74tEVjdKFmESrlQw9wsB9lE3GfzoG1yVgCpgT78oD+IY5bB3ZVNT
                        tPZdOEcUYHOu3+/NNyfU/ylTOyuLHUVEnh6nwdCBPDBb3EJdxcxZNQ==
                        -----END RSA PRIVATE KEY-----
+          clone-on-start: true
 
 server:
   port: 8082

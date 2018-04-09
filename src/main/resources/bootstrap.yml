@@ -33,6 +33,7 @@ spring:
                        apGdZgFftvvO74tEVjdKFmESrlQw9wsB9lE3GfzoG1yVgCpgT78oD+IY5bB3ZVNT
                        tPZdOEcUYHOu3+/NNyfU/ylTOyuLHUVEnh6nwdCBPDBb3EJdxcxZNQ==
                        -----END RSA PRIVATE KEY-----
+          clone-on-start: true
 
 server:
   port: 8082
